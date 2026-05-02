@@ -1,7 +1,3 @@
-# Auswahl einer neuen Software für Mitgliederverwaltung
-
-
-
 # Anforderungen Stammdatenpflege 
 
 ## Allgemein
@@ -52,7 +48,3 @@ Mitgliedschaft kann gekündigt werden
   -   Helfern
   -   Partner
   -   Lieferanten
-
- 
-
-
